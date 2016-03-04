@@ -1,0 +1,1 @@
+Some shit in file3.txt
